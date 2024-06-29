@@ -1,1 +1,1 @@
-# Snakes-and-Ladder
+Snakes and Ladders is a classic board game that has been enjoyed by players of all ages for generations. The game consists of a numbered grid, where players move based on the roll of a die. The objective is to reach the final square first Snakes-and-Ladder
